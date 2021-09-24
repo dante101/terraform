@@ -1,7 +1,7 @@
 source "yandex" "ubuntu-nginx" {
   
-  token               = "AQAAAAADDuzoAATuwU3ctvU0LUa4lBmRvPScfso"
-  folder_id           = "b1g2fc722vnsbb1o1bhg"
+  token               = "1111111111111111111"
+  folder_id           = "11111111111111111111111"
   source_image_family = "ubuntu-2004-lts"
   ssh_username        = "ubuntu"
   use_ipv4_nat        = "true"
