@@ -1,5 +1,5 @@
 name: my-group
-service_account_id: ajeig0uchb6dadrgbd46
+service_account_id: 
 instance_template:
     platform_id: standard-v1
     resources_spec:
@@ -8,7 +8,7 @@ instance_template:
     boot_disk_spec:
       mode: READ_WRITE
       disk_spec:
-        image_id: fd8fosbegvnhj5haiuoq
+        image_id: 
         type_id: network-hdd
         size: 32g
     network_interface_specs:
